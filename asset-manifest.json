@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HSOCHome/static/css/main.59d676b3.css",
-    "main.js": "/HSOCHome/static/js/main.1c113af4.js",
+    "main.js": "/HSOCHome/static/js/main.c4217617.js",
     "static/media/playchess.jpg": "/HSOCHome/static/media/playchess.4a5e140f34d51a37fdea.jpg",
     "static/media/HSOCDonationForm.pdf": "/HSOCHome/static/media/HSOCDonationForm.ebca71da308071cfc7cb.pdf",
     "static/media/ProxyForm.pdf": "/HSOCHome/static/media/ProxyForm.701960b76770155e8b24.pdf",
@@ -56,10 +56,10 @@
     "static/media/real.jpg": "/HSOCHome/static/media/real.9d6432217fcaac95fff5.jpg",
     "index.html": "/HSOCHome/index.html",
     "main.59d676b3.css.map": "/HSOCHome/static/css/main.59d676b3.css.map",
-    "main.1c113af4.js.map": "/HSOCHome/static/js/main.1c113af4.js.map"
+    "main.c4217617.js.map": "/HSOCHome/static/js/main.c4217617.js.map"
   },
   "entrypoints": [
     "static/css/main.59d676b3.css",
-    "static/js/main.1c113af4.js"
+    "static/js/main.c4217617.js"
   ]
 }
