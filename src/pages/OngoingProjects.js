@@ -4,6 +4,7 @@ import ashray from '../images/ashray.gif'
 import bharat from '../images/bharat.png'
 import walawalkar from '../images/walawalkar.jpg'
 import estd from '../images/estd.jpg'
+import ches from '../images/logoSep0423.png'
 import nysasdri from '../images/nysasdri.jpg'
 import rasa from '../images/rasa.jpg'
 import real from '../images/real.jpg'
@@ -94,6 +95,8 @@ function Projects() {
                 </div>
             </div>
 
+            
+            
             <div className='item'>
                 <div className='image-progressbar'>
                     <a href="https://www.bombayleprosy.org/" target="_blank" rel="noopener noreferrer">
@@ -109,6 +112,25 @@ function Projects() {
                         <li>They provide prevention of disability and rehabilitation services.</li>
                         <li>They carry out operational and technical research which is recognized internationally.</li>
                         <li>BLP news (March 2022)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className='item'>
+                <div className='image-progressbar'>
+                    <a href="http://cheschennai.org/" target="_blank" rel="noopener noreferrer">
+                        <img src={ches} alt="Detailed Description" />
+                    </a>
+                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                </div>
+
+                <div className='description'>
+                    <h2>COMMUNITY HEALTH EDUCATION SOCIETY (CHES) - CHENNAI</h2>
+                    <ul>
+                        <li>They focus on child education and children's rights.</li>
+                        <li>Their vision is to construct a society where every child is respected with dignity, equality and justice.</li>
+                        <li>They carry out projects to develop happy, healthy, educated and empowered individuals.</li>
+                        <li>Hindu Society of Ottawa is proud to support CHES</li>
                     </ul>
                 </div>
             </div>
@@ -168,7 +190,7 @@ function Projects() {
                 </div>
 
                 <div className='description'>
-                    <h2>REAL – RURAL EDUCATION AND ACTION FOR LIBERATION</h2>
+                    <h2>REAL – RAMAKRISHNA MATH & MISSION - MANGALURU</h2>
                     <p>
                     Operational Support of Orphanage with focus on shelter, education, and health covering the provision of food and clothing, medical services including medicines
                     </p>
