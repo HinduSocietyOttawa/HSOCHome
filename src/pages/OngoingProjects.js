@@ -190,7 +190,7 @@ function Projects() {
                 </div>
 
                 <div className='description'>
-                    <h2>REAL – RAMAKRISHNA MATH & MISSION - MANGALURU</h2>
+                    <h2>RAMAKRISHNA MATH & MISSION - MANGALURU</h2>
                     <p>
                     Operational Support of Orphanage with focus on shelter, education, and health covering the provision of food and clothing, medical services including medicines
                     </p>
@@ -208,26 +208,26 @@ function Projects() {
                 <div className='description'>
                     <h2>RAMAKRISHNA MISSION</h2>
                     <ul>
-                    <p>(Delhi)</p>
+                    <p><b>(RK MISSION - DELHI)</b></p>
                         <li>Provision of Operational Support of providing medical services to poor people with a focus on prevention, education, consultation, and treatment and providing medical care and medicines to poor people especially belonging to scheduled castes in the outlying areas of Delhi, who do not have sufficient access to medical care.</li>
                         <li>Free milk to school-going children and expectant mothers belonging to poor echelon</li>
                         <li>Support for the T.B. Clinic, which is a philanthropic institution that serves the poorer sections of the community</li>
                     </ul>
                     <ul>
-                        <p>(Kanpur)</p>
+                        <p><b>(RK MISSION - KANPUR)</b></p>
                         <li>Operational Support of providing medical services to poor people with a focus on prevention, education, consultation, and treatment.</li>
                         <li>Covering the operation of the mobile infrastructure, health-related education programs, medical services including medicines, supplies such as X‐ray films, diagnostic material.</li>
                         <li>Medicines and support for Medical Dispensary</li>
                     </ul>
 
                     <ul>
-                        <p>(Haridwar)</p>
+                        <p><b>(RK MISSION - HARIDWAR)</b></p>
                         <li>Operational Support for providing medical services to poor people with a focus on prevention, education, consultation and treatment covering health-related education programs, medical services including medicines, supplies such as X‐ray films, diagnostic material</li>
                         <li>Support for the T.B. Clinic, which is a philanthropic institution that serves the poorer sections of the community</li>
                     </ul>
 
                     <ul>
-                        <p>(Chennai)</p>
+                        <p><b>(RK MISSION - CHENNAI)</b></p>
                         <li>Education for adolescent girls</li>
                     </ul>
                
