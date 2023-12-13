@@ -40,6 +40,20 @@ function Projects() {
 
             <div className='item'>
                 <div className='image-progressbar'>
+                    <a href="https://anandamoldagehome.org/" target="_blank" rel="noopener noreferrer">
+                        <img src={Anandam} alt="Detailed Description" />
+                    </a>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
+                </div>
+
+                <div className='description'>
+                    <h2>ANANDAM OLD AGE HOME, CHENNAI</h2>
+                    <p>Anandam is a charity organization that looks after elders who have no income or children. Anandam, a Free Home for Senior Citizens was started in 2003 in a modest scale with 3 elders. With efforts from the management and support from well-wishers, this has grown into a Model Home, accommodating 105 elders in a sprawling campus of 24000 sq.ft. in 15 grounds of land.</p>
+                </div>
+            </div>
+
+            <div className='item'>
+                <div className='image-progressbar'>
                     <a href="https://www.bharatsevashramsangha.org/" target="_blank" rel="noopener noreferrer">
                         <img src={bharat} alt="Detailed Description" />
                     </a>
