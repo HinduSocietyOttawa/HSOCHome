@@ -29,7 +29,7 @@ function Projects() {
                     <a href="https://ashrayakruti.org/" target="_blank" rel="noopener noreferrer">
                         <img src={ashray} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -43,7 +43,7 @@ function Projects() {
                     <a href="https://www.bharatsevashramsangha.org/" target="_blank" rel="noopener noreferrer">
                         <img src={bharat} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -62,7 +62,7 @@ function Projects() {
                     <a href="https://walawalkarhospital.com/" target="_blank" rel="noopener noreferrer">
                         <img src={walawalkar} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -102,7 +102,7 @@ function Projects() {
                     <a href="https://www.bombayleprosy.org/" target="_blank" rel="noopener noreferrer">
                         <img src={estd} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -121,7 +121,7 @@ function Projects() {
                     <a href="http://cheschennai.org/" target="_blank" rel="noopener noreferrer">
                         <img src={ches} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -140,7 +140,7 @@ function Projects() {
                     <a href="http://www.nysasdri.org/" target="_blank" rel="noopener noreferrer">
                         <img src={nysasdri} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -155,7 +155,7 @@ function Projects() {
                     <a href="http://www.rasaindia.org/index.html" target="_blank" rel="noopener noreferrer">
                         <img src={rasa} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -169,7 +169,7 @@ function Projects() {
                     <a href="https://realvpm.org/" target="_blank" rel="noopener noreferrer">
                         <img src={real} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -186,7 +186,7 @@ function Projects() {
                     <a href="http://mangaloremath.in/" target="_blank" rel="noopener noreferrer">
                         <img src={math} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -202,7 +202,7 @@ function Projects() {
                     <a href="https://belurmath.org/" target="_blank" rel="noopener noreferrer">
                         <img src={mission} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -239,7 +239,7 @@ function Projects() {
                     <a href="https://sevalaya.org/" target="_blank" rel="noopener noreferrer">
                         <img src={sevalaya} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -255,7 +255,7 @@ function Projects() {
                     <a href="http://www.sriramakrishnavidyalayatrichy.org/trust.php" target="_blank" rel="noopener noreferrer">
                         <img src={srk} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -274,7 +274,7 @@ function Projects() {
                     <a href="http://www.hindusocietyottawa.com/wp-content/uploads/2020/07/Uttarakhand-Disaster-Relief.jpg" target="" rel="noopener noreferrer">
                         <img src={uttar} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={70} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
