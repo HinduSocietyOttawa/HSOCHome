@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../components/Header'
 import ashray from '../images/ashray.gif'
+import anandam from '../images/Anandam.png'
 import bharat from '../images/bharat.png'
 import walawalkar from '../images/walawalkar.jpg'
 import estd from '../images/estd.jpg'
@@ -41,7 +42,7 @@ function Projects() {
             <div className='item'>
                 <div className='image-progressbar'>
                     <a href="https://anandamoldagehome.org/" target="_blank" rel="noopener noreferrer">
-                        <img src={Anandam} alt="Detailed Description" />
+                        <img src={anandam} alt="Detailed Description" />
                     </a>
                     {/* <p className='progress'><ProgressBar value={70} max={100} /></p> */}
                 </div>
