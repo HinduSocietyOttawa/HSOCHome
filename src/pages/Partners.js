@@ -62,10 +62,10 @@ function Partners() {
                 <div className='charity-description'>
                     <h2>B.K.L. WALAWALKAR HOSPITAL DIAGNOSTIC & RESEARCH CENTRE</h2>
                     <p>B.K.L. Walawalkar Hospital Diagnostic & Research Centre offers basic & state-of-the-art health services to the poor & needy people at very affordable rates.</p>
-                    <p>The hospital is run by the Shri Vithalrao Joshi Charities Trust. The Aim of Shri Vithalrao Joshi charities Trust is to provide human beings basic needs, 
+                    <p>The hospital is run by the Shri Vithalrao Joshi Charities Trust. The trust aims to provide human beings basic needs, 
                         such as food, water, clothing, shelter, education, and medical aid for his physical survival discourse for his self-realisation. 
-                        The organization has been working for the last 30+ years for the social & spiritual upliftment of the poor. The areas of activity 
-                        are the Ratnagiri district, Pune, and Mumbai city of the Maharashtra State, on the western coast of India.</p>
+                        The organization has been working for 30+ years for the social & spiritual upliftment of the poor. The areas of activity 
+                        are the Ratnagiri district, Pune, and Mumbai city of the Maharashtra State, on the west coast of India.</p>
                     <a href="https://walawalkarhospital.com/">Visit Our Website...</a> 
                 </div>
                 
