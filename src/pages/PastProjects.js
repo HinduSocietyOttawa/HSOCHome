@@ -32,7 +32,7 @@ function PastProjects() {
                     <a href="https://aimforseva.in/" target="_blank" rel="noopener noreferrer">
                         <img src={aimforseva} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -46,7 +46,7 @@ function PastProjects() {
                     <a href="https://thearyasamaj.org/home" target="_blank" rel="noopener noreferrer">
                         <img src={aryasamaj} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -60,7 +60,7 @@ function PastProjects() {
                     <a href="https://walawalkarhospital.com/" target="_blank" rel="noopener noreferrer">
                         <img src={walawalkar} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -81,7 +81,7 @@ function PastProjects() {
                     <a href="http://canugan.org/" target="_blank" rel="noopener noreferrer">
                         <img src={canug} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -95,7 +95,7 @@ function PastProjects() {
                     <a href="http://www.hindusocietyottawa.com/wp-content/uploads/2020/08/Jagriti-School-for-Blind-Girls.jpg" target="_blank" rel="noopener noreferrer">
                         <img src={jagriti} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -109,7 +109,7 @@ function PastProjects() {
                     <a href="http://kagas.org/" target="_blank" rel="noopener noreferrer">
                         <img src={kagas} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -123,7 +123,7 @@ function PastProjects() {
                     <a href="http://www.rkmsevapratishthan.org/" target="_blank" rel="noopener noreferrer">
                         <img src={manav} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -137,7 +137,7 @@ function PastProjects() {
                     <a href="http://www.hindusocietyottawa.com/wp-content/uploads/2020/08/mobile-hospital-covering-300x200.jpg" target="_blank" rel="noopener noreferrer">
                         <img src={mobile} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -153,7 +153,7 @@ function PastProjects() {
                     <a href="http://owvsorissa.org/index.html" target="_blank" rel="noopener noreferrer">
                         <img src={orissa} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -168,7 +168,7 @@ function PastProjects() {
                     <a href="https://belurmath.org/" target="_blank" rel="noopener noreferrer">
                         <img src={mission} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -189,7 +189,7 @@ function PastProjects() {
                     <a href="https://sadhana-village.org/" target="_blank" rel="noopener noreferrer">
                         <img src={sadhana} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -203,7 +203,7 @@ function PastProjects() {
                     <a href="https://www.scarfindia.org/" target="" rel="noopener noreferrer">
                         <img src={scarf} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -217,7 +217,7 @@ function PastProjects() {
                     <a href="http://www.sewabhartimadhyabharat.org/about.php" target="" rel="noopener noreferrer">
                         <img src={sewa} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -231,7 +231,7 @@ function PastProjects() {
                     <a href="https://www.srisathyasai.org/pages/" target="" rel="noopener noreferrer">
                         <img src={sri} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -245,7 +245,7 @@ function PastProjects() {
                     <a href="https://www.facebook.com/VIDYA-JYOTI-Special-School-for-slow-learners-1427534874211521/" target="" rel="noopener noreferrer">
                         <img src={vidya} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
@@ -259,7 +259,7 @@ function PastProjects() {
                     <a href="https://yssofindia.org/" target="" rel="noopener noreferrer">
                         <img src={yogoda} alt="Detailed Description" />
                     </a>
-                    <p className='progress'><ProgressBar value={100} max={100} /></p>
+                    {/* <p className='progress'><ProgressBar value={100} max={100} /></p> */}
                 </div>
 
                 <div className='description'>
